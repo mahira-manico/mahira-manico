@@ -61,8 +61,6 @@ $ git --version
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahira-manico&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahira-manico&theme=radical&hide_border=true)
-
 </div>
 
 ## 🎯 Current Focus
