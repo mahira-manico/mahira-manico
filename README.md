@@ -9,6 +9,12 @@
 
 </div>
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o2eGcyeGpqbGg1d2dmNDZsNTdhYXdqdGtydWw0dXMwdG4zc2pwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="150"/>
+  
+  ### 🧙‍♀️ Coding Magic in Progress...
+</div>
+
 ## 🚀 About Me
 
 I'm a passionate tech student at **La Plateforme_**, where learning meets innovation and code becomes creation. My journey in software development is driven by curiosity, creativity, and a genuine love for building things that make a difference.
@@ -78,30 +84,6 @@ An interactive hangman game with multiple difficulty levels, scoring system, and
 ### 🚧 More Coming Soon...
 Stay tuned for more exciting projects!
 
-## 🌟 My Coding Philosophy
-
-```python
-class Developer:
-    def __init__(self, name):
-        self.name = name
-        self.skills = []
-        self.passion = float('inf')
-        
-    def learn(self, technology):
-        self.skills.append(technology)
-        return f"Excited to master {technology}!"
-    
-    def build(self, idea):
-        return idea.transform_to_reality()
-    
-    def collaborate(self, team):
-        return team.achieve_greatness()
-
-me = Developer("Mahira")
-print(me.learn("everything"))
-# Output: "Excited to master everything!"
-```
-
 ## 📈 Weekly Development Breakdown
 
 ```text
@@ -117,14 +99,6 @@ Other        ██░░░░░░░░░░░░░░░░░░░   1
 - Peer-to-peer collaboration
 - Real-world problem solving
 - Continuous skill development
-
-## 💭 Fun Facts
-
-- ⚡ I debug code better with music on
-- 🎯 My favorite debugging method? Print statements everywhere!
-- 🌙 Night owl coder - best ideas come after midnight
-- ☕ Coffee is not a beverage, it's a lifestyle
-- 🎲 Love board games as much as coding games
 
 ## 📫 Get In Touch
 
@@ -148,8 +122,6 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 <div align="center">
   
 **💫 Thanks for stopping by! Let's create something extraordinary together.**
-
-![Visitor Count](https://profile-counter.glitch.me/mahira-manico/count.svg)
 
 *Last updated: January 2026*
 
