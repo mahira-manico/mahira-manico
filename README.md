@@ -104,7 +104,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 - 💼 **Open to**: Internships, Projects, Collaborations
 - 🤝 **Happy to help**: Fellow students, open-source projects
-- 💡 **Interested in**: Game dev, Web dev, AI/ML
+- 💡 **Interested in**: Software engineering, AI/ML
 - 📧 **Let's connect**: Reach out if you want to build something amazing together
 
 <div align="center">
