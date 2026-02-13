@@ -28,8 +28,8 @@ IT student at **La Plateforme_** (Marseille). I bring the same rigor from creati
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Frameworks:** Pygame | **Learning:** POO, Python  
-**Skills:** OOP, Game Dev, Git Workflow, Modular Architecture
+**Frameworks:** Pygame | **Learning:** OOP, Python, React, SQL   
+**Skills:** OOP, Game Dev, Git Workflow, Modular Architecture, Software Dev
 
 ---
 
@@ -69,8 +69,8 @@ Philosophical paradox meets code
 
 ```python
 learning = {
-    "now": ["Algorithms", "Data Structures", "Flask"],
-    "next": ["React", "AI/ML basics"],
+    "now": ["SQL", "OOP", "React","Python"],
+    "next": ["Algorithm", "AI/ML basics","Data"],
     "goal": "Real-world team development"
 }
 ```
