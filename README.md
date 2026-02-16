@@ -70,7 +70,7 @@ Philosophical paradox meets code
 ```python
 learning = {
     "now": ["SQL", "OOP","Python","Pygame],
-    "next": ["Data","Flask],
+    "next": ["Flask, C, C#, C++],
     "goal": "Real-world team development"
 }
 ```
@@ -86,6 +86,7 @@ learning = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mahira--manico-181717?style=for-the-badge&logo=github)](https://github.com/mahira-manico)
+
 
 ---
 
