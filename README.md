@@ -35,7 +35,7 @@ IT student at **La Plateforme_** (Marseille). My background in arts and language
 **Frameworks & Tools:** Pygame · Tkinter · CustomTkinter · JDBC · Linux/Bash · VS Code · IntelliJ  
 **Skills:** OOP · MVC Architecture · SQL · Git Workflow · CRUD · Agile teamwork · Code reviews
 
-**Coming soon (June–July 2026):** C · C++ · C# · JavaScript · Design Patterns · UML
+**Coming soon (June–July 2026):** C · C++ · C# · Design Patterns · UML
 
 ---
 
@@ -82,7 +82,7 @@ Philosophical paradox meets OOP
 
 ```python
 learning = {
-    "now":  ["Java", "JavaFX", "PostgreSQL", "Python", "SQL", "JavaScript],
+    "now":  ["Java", "JavaFX", "PostgreSQL", "Python", "SQL", "JavaScript"],
     "next": ["C", "C++", "C#", "Design Patterns", "UML"],
     "goal": "Real-world team development & work-study program"
 }
