@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 Python Developer Student | From Art to Code
+### 💻 Software Developer Student | From Art to Code
 
 [![GitHub followers](https://img.shields.io/github/followers/mahira-manico?style=social)](https://github.com/mahira-manico)
 [![GitHub stars](https://img.shields.io/github/stars/mahira-manico?style=social)](https://github.com/mahira-manico)
@@ -15,53 +15,66 @@
 
 **English Literature → Visual Arts → Software Development**
 
-IT student at **La Plateforme_** (Marseille). I bring the same rigor from creating physical art to writing code. 4 months in, I've built complete games and mastered OOP fundamentals.
+IT student at **La Plateforme_** (Marseille). My background in arts and languages shaped how I approach code — with rigor, attention to detail, and a strong sense of design. I build complete, structured projects and care about clean architecture.
 
-🎯 **Seeking work-study program** - Sept 2026 | Marseille/Remote
+🎯 **Seeking a 2-year work-study program** starting October 2026 | Marseille / Remote
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Frameworks:** Pygame | **Learning:** OOP, Python, SQL, Java   
-**Skills:** OOP, Game Dev, Git Workflow, Modular Architecture, Software Dev
+**Frameworks & Tools:** Pygame · Tkinter · CustomTkinter · JDBC · Linux/Bash · VS Code · IntelliJ  
+**Skills:** OOP · MVC Architecture · SQL · Git Workflow · CRUD · Agile teamwork · Code reviews
+
+**Coming soon (June–July 2026):** C · C++ · C# · JavaScript · Design Patterns · UML
 
 ---
 
 ## 💼 Featured Projects
 
+### 🎓 [La Plateforme_ Tracker](https://github.com/mahira-manico/LaplateformeTracker) (Team)
+Student management app — Java 21 · JavaFX · PostgreSQL · JDBC
+- Secure authentication · Full CRUD · Advanced search & dynamic sorting
+- Import/Export CSV, XML, JSON · Class statistics · Pagination · Auto-save
+- **My work:** All FXML files · Main Controller · UI architecture
+
+### 💰 [Budget Buddy](https://github.com/mahira-manico/budget_buddy) (Team)
+Personal finance app — Python · CustomTkinter · SQLite
+- MVC architecture · Real-time data visualization · SQLite persistence
+- Input validation · Edge case handling
+- **My work:** Team development · Git workflow · Code reviews
+
+### 🎮 [Pokémon Adventure – RPG Battle](https://github.com/mahira-manico/pokemon)
+Modular RPG — Python · Pygame · JSON
+- Clean Architecture (domain / application / infrastructure)
+- Complex state management · Data persistence · Dynamic UI
+
 ### 🎮 [Hangman Game](https://github.com/samba-gomis/pendu)
-Complete Pygame application with modular architecture
-- 8-file structure (MVC-inspired) • 3 difficulty levels
-- Scoring system • Sound & music • Custom UI
-
-### 🍎 [Fruit Slicer](https://github.com/samba-gomis/fruit-slicer) (Team)
-Fast-paced typing game
-- Dynamic spawning • Power-ups • Team of 3 devs
-- **My work:** Bomb system, Ice mechanics, HUD, Spawn manager
-
-### 🃏 Blackjack & ⚔️ Battle Arena
-Card game & combat system demonstrating OOP mastery
-- Game loops • State machines • Object composition
+Complete Pygame app with modular architecture
+- 8-file structure (MVC-inspired) · 3 difficulty levels · Scoring · Sound
 
 ### ⚓ [Ship of Theseus](https://github.com/mahira-manico/ship-of-theseus)
-Philosophical paradox meets code
-- Inheritance • Encapsulation • Reference vs value
+Philosophical paradox meets OOP
+- Inheritance · Encapsulation · Reference vs value
 
 ---
 
 ## 🚀 What I Bring
 
-- **Fast Learner:** 4 months = 2 complete games + OOP mastery
-- **Autonomous:** Self-taught, project-driven learning
-- **Team Player:** Git workflow, code reviews, collaboration
-- **Problem Solver:** Arts background = methodical approach
-- **Rigorous:** Perfectionist who debugs until it works
+- **Rigorous:** Clean code, proper architecture, attention to detail
+- **Autonomous:** Self-taught, capable of managing projects end to end
+- **Collaborative:** Agile teamwork, code reviews, clear communication
+- **Proactive:** Initiative-taking, continuous improvement mindset
+- **Creative:** Arts & design background — strong UI/UX sensibility
 
 ---
 
@@ -69,9 +82,9 @@ Philosophical paradox meets code
 
 ```python
 learning = {
-    "now": ["SQL", "OOP","Python","Pygame,"Java"],
-    "next": ["Flask, C, C#, C++],
-    "goal": "Real-world team development"
+    "now":  ["Java", "JavaFX", "PostgreSQL", "Python", "SQL", "JavaScript],
+    "next": ["C", "C++", "C#", "Design Patterns", "UML"],
+    "goal": "Real-world team development & work-study program"
 }
 ```
 
@@ -80,18 +93,16 @@ learning = {
 ## 📫 Connect
 
 💼 **Open to:** Work-study programs, collaborations  
-📧 **Email:** mahira10015@gmail.com  
+🔗 **LinkedIn:** [mahira-manico](https://www.linkedin.com/in/mahira-manico)  
+🌐 **Portfolio:** [mahira-manico.github.io](https://mahira-manico.github.io/)  
 📍 **Location:** Marseille, France
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mahira--manico-181717?style=for-the-badge&logo=github)](https://github.com/mahira-manico)
 
-
 ---
 
-*"Same creative process, different medium - from art to code"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=mahira-manico&color=blueviolet&style=flat-square)
+*"Same creative process, different medium — from art to code."*
 
 </div>
