@@ -1,0 +1,23 @@
+# Put this file in your profile repo at: .github/workflows/metrics.yml
+name: Metrics
+on:
+  # Daily refresh
+  schedule: [{cron: "0 0 * * *"}]
+  # Lets you run it by hand from the Actions tab
+  workflow_dispatch:
+  # Also runs on every push to main
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: mahira-manico
+          filename: github-metrics.svg
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_colors: "0:#ff69b4, 1:#c8a2ff, 2:#9be7ff, 3:#ff8fd0, 4:#b98cff, 5:#ffb3de, 6:#7fd8f5, 7:#ec407a"
