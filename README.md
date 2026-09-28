@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Hi, I'm Mahira - from art to code" width="100%"/>
+<p align="center"><img src="assets/banner.svg" alt="Hi, I'm Mahira - from art to code" width="100%"/></p>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o2eGcyeGpqbGg1d2dmNDZsNTdhYXdqdGtydWw0dXMwdG4zc2pwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="160" alt="intro gif"/>
+<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o2eGcyeGpqbGg1d2dmNDZsNTdhYXdqdGtydWw0dXMwdG4zc2pwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="160" alt="intro gif"/></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF69B4&center=true&vCenter=true&width=560&lines=Software+Developer+%26+work-study+student+%F0%9F%92%BB;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+C%2B%2B+%C2%B7+Sass+%F0%9F%8C%B8;Clean+architecture+with+a+little+glitter+%E2%9C%A8" alt="Typing animation"/>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF69B4&center=true&vCenter=true&width=560&lines=Software+Developer+%26+work-study+student+%F0%9F%92%BB;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+C%2B%2B+%C2%B7+Sass+%F0%9F%8C%B8;Clean+architecture+with+a+little+glitter+%E2%9C%A8" alt="Typing animation"/></p>
 
 <br/>
 
@@ -115,9 +115,9 @@ Philosophical paradox meets OOP
 <div align="center">
 
 <!-- Generated daily by the "Metrics" GitHub Action (see .github/workflows/metrics.yml) -->
-<img src="https://github.com/mahira-manico/mahira-manico/blob/main/github-metrics.svg" alt="GitHub metrics" width="100%"/>
+<p align="center"><img src="https://github.com/mahira-manico/mahira-manico/blob/main/github-metrics.svg" alt="GitHub metrics" width="480"/></p>
 
-<img src="https://streak-stats.demolab.com/?user=mahira-manico&background=FFF0F6&ring=FF69B4&fire=FF8FB8&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=6B2B4A&sideNums=6B2B4A&dates=6B2B4A&border=FFC2DC" alt="GitHub streak"/>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=mahira-manico&background=FFF0F6&ring=FF69B4&fire=FF8FB8&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=6B2B4A&sideNums=6B2B4A&dates=6B2B4A&border=FFC2DC" alt="GitHub streak"/></p>
 
 </div>
 
