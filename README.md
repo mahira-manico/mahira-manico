@@ -1,19 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fb8&height=220&section=header&text=Hi%2C%20I'm%20Mahira%20%F0%9F%8E%80&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=from%20art%20to%20code%20%E2%99%A1&descAlignY=58&descSize=22" alt="Hi, I'm Mahira" width="100%"/>
-
-⋆｡°✩ ₊˚⊹ ♡ ⊹˚₊ ✩°｡⋆
+<img src="assets/banner.svg" alt="Hi, I'm Mahira - from art to code" width="100%"/>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o2eGcyeGpqbGg1d2dmNDZsNTdhYXdqdGtydWw0dXMwdG4zc2pwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="160" alt="intro gif"/>
-
-✨ 🎀 🌸 💗 🌸 🎀 ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF69B4&center=true&vCenter=true&width=560&lines=Software+Developer+%26+work-study+student+%F0%9F%92%BB;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+C%2B%2B+%C2%B7+Sass+%F0%9F%8C%B8;Clean+architecture+with+a+little+glitter+%E2%9C%A8" alt="Typing animation"/>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/mahira-manico?style=for-the-badge&logo=github&color=ff69b4&labelColor=fff0f6&logoColor=ff69b4)](https://github.com/mahira-manico)
-[![GitHub stars](https://img.shields.io/github/stars/mahira-manico?style=for-the-badge&logo=github&color=f48fb1&labelColor=fff0f6&logoColor=f48fb1)](https://github.com/mahira-manico)
+[![GitHub followers](https://img.shields.io/github/followers/mahira-manico?style=for-the-badge&logo=github&color=ff69b4&labelColor=c8a2ff&logoColor=white)](https://github.com/mahira-manico)
+[![GitHub stars](https://img.shields.io/github/stars/mahira-manico?style=for-the-badge&logo=github&color=9be7ff&labelColor=c8a2ff&logoColor=white)](https://github.com/mahira-manico)
 
 </div>
 
@@ -26,28 +22,44 @@ IT student at **La Plateforme_** (Marseille). My background in arts and language
 💼 **Currently:** work-study (alternance) at **Thom Horizon**, Aubagne
 📍 **Based in:** Marseille, France
 
-⋆｡°✩ ₊˚⊹ ♡ ⊹˚₊ ✩°｡⋆
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
 
-**Frameworks & Tools:** JavaFX · Spring Data JPA · JDBC · Pygame · Tkinter · CustomTkinter · Linux/Bash · VS Code · IntelliJ · Netlify
-**Skills:** OOP · Design Patterns (Strategy, Builder) · UML · MVC & Clean Architecture · SQL · Git Workflow · Accessibility (W3C/RGAA) · Eco-design · Agile teamwork · Code reviews
+![Java](https://img.shields.io/badge/-Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-c8a2ff?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-9be7ff?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-ff8fd0?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-b98cff?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-7fd8f5?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-c8a2ff?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-9be7ff?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-ff8fd0?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-b98cff?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-7fd8f5?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-ff69b4?style=for-the-badge&logo=git&logoColor=white)
 
----
+</div>
+
+### 🧩 Frameworks & Tools
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **🖥️ Frameworks & libraries** | ![JavaFX](https://img.shields.io/badge/-JavaFX-ff69b4?style=flat-square&logo=openjdk&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-c8a2ff?style=flat-square&logo=spring&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-9be7ff?style=flat-square&logo=openjdk&logoColor=white) ![Pygame](https://img.shields.io/badge/-Pygame-ff8fd0?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-b98cff?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-7fd8f5?style=flat-square&logo=python&logoColor=white) |
+| **🧰 Dev tools** | ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-ff69b4?style=flat-square&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-c8a2ff?style=flat-square&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-9be7ff?style=flat-square&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-ff8fd0?style=flat-square&logo=gnubash&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-b98cff?style=flat-square&logo=githubactions&logoColor=white) |
+| **🚀 Deploy** | ![Netlify](https://img.shields.io/badge/-Netlify-ff69b4?style=flat-square&logo=netlify&logoColor=white) |
+| **📐 Concepts** | ![OOP](https://img.shields.io/badge/-OOP-c8a2ff?style=flat-square) ![Design Patterns](https://img.shields.io/badge/-Design_Patterns-9be7ff?style=flat-square) ![UML](https://img.shields.io/badge/-UML-ff8fd0?style=flat-square) ![MVC](https://img.shields.io/badge/-MVC-b98cff?style=flat-square) ![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-7fd8f5?style=flat-square) ![Accessibility](https://img.shields.io/badge/-Accessibility_W3C-ff69b4?style=flat-square) ![Eco-design](https://img.shields.io/badge/-Eco--design-c8a2ff?style=flat-square) ![Agile](https://img.shields.io/badge/-Agile-9be7ff?style=flat-square) |
+
+</div>
+
+**Also:** Strategy & Builder patterns · SQL · Git workflow · Code reviews · Agile teamwork
+
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
 ## 💗 Featured Projects
 
@@ -96,20 +108,20 @@ Complete Pygame app with modular architecture
 Philosophical paradox meets OOP
 - Inheritance · Encapsulation · Reference vs value
 
----
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahira-manico&show_icons=true&hide_border=false&bg_color=FFF0F6&title_color=FF69B4&icon_color=FF8FB8&text_color=6B2B4A&border_color=FFC2DC" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahira-manico&layout=compact&bg_color=FFF0F6&title_color=FF69B4&text_color=6B2B4A&border_color=FFC2DC" alt="Top languages"/>
+<!-- Generated daily by the "Metrics" GitHub Action (see .github/workflows/metrics.yml) -->
+<img src="https://github.com/mahira-manico/mahira-manico/blob/main/github-metrics.svg" alt="GitHub metrics" width="100%"/>
 
 <img src="https://streak-stats.demolab.com/?user=mahira-manico&background=FFF0F6&ring=FF69B4&fire=FF8FB8&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=6B2B4A&sideNums=6B2B4A&dates=6B2B4A&border=FFC2DC" alt="GitHub streak"/>
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
 ## 🚀 What I Bring
 
@@ -118,8 +130,6 @@ Philosophical paradox meets OOP
 - **Collaborative:** Agile teamwork, code reviews, clear communication
 - **Proactive:** Initiative-taking, continuous improvement mindset
 - **Creative:** Arts & design background, strong UI/UX sensibility
-
----
 
 ## 🌷 Current Focus
 
@@ -131,8 +141,6 @@ learning = {
 }
 ```
 
----
-
 ## 📫 Connect
 
 💼 **Open to:** collaborations and cool projects
@@ -142,12 +150,10 @@ learning = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mahira--manico-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahira-manico)
+[![GitHub](https://img.shields.io/badge/GitHub-mahira--manico-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=c8a2ff)](https://github.com/mahira-manico)
 
-⋆｡°✩ ₊˚⊹ ♡ ⊹˚₊ ✩°｡⋆
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 *"Same creative process, different medium — from art to code."* 🎀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fb8&height=110&section=footer" alt="footer" width="100%"/>
 
 </div>
